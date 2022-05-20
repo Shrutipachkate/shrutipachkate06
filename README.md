@@ -1,4 +1,4 @@
-# hackathon
+# MINIPROJECT
 # Project Name
      Where to start?
 ## About the Project
