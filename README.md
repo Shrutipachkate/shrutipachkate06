@@ -11,7 +11,7 @@
     You can directly see website using link no need to install.
 
 ## App/Web link if hosted (recommended but optional)
-    https://padamwar.github.io/hackathon/
+  
 ## Video Demo (Mandatory)
 // link of video demo. you can upload video on google drive. Make sure that
 video is accessible for anyone with the link.
